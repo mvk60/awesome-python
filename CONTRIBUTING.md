@@ -1,4 +1,5 @@
 # Contributing
+"Bitte sende eine Email an: liebings_kollege@firma.com"
 
 ## Quality Requirements
 
